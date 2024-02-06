@@ -1,0 +1,73 @@
+.menu i.material-icons {
+    color: #1565c0;
+}
+
+.menuIcons {
+    display: flex;
+    margin-top: 60px;
+}
+
+.profile {
+    margin-top: 2px;
+    margin-left: 10px;
+    font-size: 18px;
+}
+
+li.active {
+    margin-right: 18px;
+    margin-left: -12px;
+    padding: 1px 0px 16px 12px;
+    background-color: #b5dbf88a;
+}
+.menuIconsNews, .menuIconsMessage, .menuIconsFriends, .menuIconsEvents, .menuIconsMedia {
+    display: flex;
+    margin-top: 20px;
+}
+
+.menuIconsFriends {
+    padding: 4px 0 4px 0px;
+}
+
+
+.d-flex-vertical-center {
+    display: flex;
+    align-items: center;
+}
+
+.card-image img.responsive-image {
+    width: 100px;
+}
+
+.messageFour {
+    margin-left: 12px;
+    padding: 6px;
+    background-color: #1565c0;
+}
+
+.pranavItem {
+    padding: 10px 10px 10px;
+}
+
+.black-text {
+    font-weight: 900;
+}
+
+.container-first {
+    border-right: 1px solid rgba(220, 217, 217, 0.571);
+}
+
+
+.borderBottom {
+    padding-top: 8px;
+    border-bottom: 1px solid rgba(220, 217, 217, 0.571);
+}
+
+.messageAmount {
+    padding: 6px;
+    margin-left: 8px;
+}
+
+.positionInput {
+    margin-top: 50%;
+}
+

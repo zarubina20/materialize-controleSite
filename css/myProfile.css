@@ -1,0 +1,99 @@
+.menu i.material-icons {
+    color: #1565c0;
+}
+
+.profile {
+    margin-top: 2px;
+    margin-left: 10px;
+    font-size: 18px;
+}
+
+
+li.active {
+    margin-right: 18px;
+    margin-left: -12px;
+    padding: 1px 0px 16px 12px;
+    background-color: #b5dbf88a;
+}
+
+.menuIcons {
+    display: flex;
+    margin-top: 16px;
+}
+
+
+.menuIconsNews, .menuIconsMessage, .menuIconsFriends, .menuIconsEvents, .menuIconsMedia {
+    display: flex;
+    margin-top: 20px;
+}
+
+.menuIconsFriends {
+    padding: 4px 0 4px 0px;
+}
+
+.d-dlexPerson {
+    display: flex;
+}
+
+
+.d-flex-vertical-center {
+    display: flex;
+    align-items: center;
+}
+
+.card-image img.responsive-image {
+    width: 50px;
+}
+
+.cardImagePerson {
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 40px;
+}
+
+.pranavTop {
+    margin-top: 18px;
+}
+
+.marginSearch {
+    margin-top: 4px;
+}
+
+
+.d-flex-month {
+    display: flex;
+    align-items: center;
+}
+
+.d-flex-month i.material-icons {
+    color: #bdbdbd;
+}
+
+.messageFour {
+    margin-left: 12px;
+    padding: 6px;
+    background-color: #1565c0;
+}
+li.blue {
+    margin-right: 24px;
+}
+
+.dateCity, .city {
+    margin-left: 6px;
+}
+
+.bold-text {
+    font-weight: 900;
+}
+
+.card-image img.ImagesInCard {
+    width: 40px;
+}
+
+.btnW100 {
+    width: 100%;
+}
+
+.contentCardLuella {
+    margin-left: 20px;
+}
